@@ -1,0 +1,4 @@
+database: "wordpress_db" 
+database_user:  "root" 
+database_user_password: "9aiv5e78" 
+hostname: "terraform-20210806121106121100000001.chrpy8wuqlfu.ap-south-1.rds.amazonaws.com"

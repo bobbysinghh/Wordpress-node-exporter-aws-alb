@@ -1,0 +1,4 @@
+- hosts: tag_Name_Node_exporter
+  roles:
+    - role: node_exporter
+

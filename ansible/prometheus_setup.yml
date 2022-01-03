@@ -1,0 +1,3 @@
+- hosts: tag_Name_prometheus_server
+  roles:
+  - role: prometheus
